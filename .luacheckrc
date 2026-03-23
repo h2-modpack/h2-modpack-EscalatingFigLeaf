@@ -1,5 +1,5 @@
 ﻿std = "lua52"
-max_line_length = 120
+max_line_length = 135
 globals = { 
     "rom", 
     "public", 
@@ -17,5 +17,6 @@ read_globals = {
     "CurrentRun",
     "SetupRunData",
     "GetHeroTrait",
-    "HeroHasTrait"
+    "HeroHasTrait",
+    "MapState"
     }
